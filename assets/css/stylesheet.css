@@ -1,0 +1,26 @@
+﻿
+body {
+    margin-top: -16px;
+    margin-bottom: 0px;
+}
+
+.fontLoader {
+    font-family: 'proxima_nova_ltthin';
+    position: absolute;
+    left: -1000px;
+    height: 0px;
+    margin: 0px;
+}
+
+.fontLoader2 {
+    font-family: 'futura_pt';
+    position: absolute;
+    left: -1000px;
+    height: 0px;
+    margin: 0px;
+}
+
+#game {
+    width: 500px;
+    height:1000px;
+}
